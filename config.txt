@@ -1,0 +1,9 @@
+# comment ignored
+WIDTH=22
+HEIGHT=22
+ENTRY=0,0
+EXIT=21,21
+OUTPUT_FILE=output_dir/OUTPUT_FILE.txt
+PERFECT=True
+ALGORITHM=dfs
+
